@@ -6,6 +6,11 @@
   "author": "D1scoDancer <apshulikov@edu.hse.ru>",
   "license": "MIT",
   "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
     "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "solc": "0.8.7-fixed"
   }
 }
